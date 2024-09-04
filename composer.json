@@ -3,11 +3,8 @@
     "description": "A PHP package for sending emails using EkiliRelay API.",
     "type": "library",
     "require": {
-        "php": ">=7.2",
-        "tachera/ekilirelay": "1.0.*"
+        "php": ">=7.2"
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "ekilie\\EkiliRelay\\": "src/"
