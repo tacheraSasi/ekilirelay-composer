@@ -1,5 +1,5 @@
 {
-    "name": "ekilie/ekilirelay",
+    "name": "tachera/ekilirelay",
     "description": "A PHP package for sending emails using EkiliRelay API.",
     "type": "library",
     "require": {
